@@ -7,9 +7,20 @@ Se utilizo Bootstrap para darle estilos CSS.
 
 ## Imágenes
 
+## Tecnologías
+
+• HTML  
+• CSS  
+• Javascript  
+• React JS  
+• Formik  
+• Axios  
+• Bootstrap
+
 ## Instalación
 
 1 - Clonar el repositorio  
 2 - npm install  
 3 - npm run dev  
 4 - npm install formik --save
+5 - npm install axios
